@@ -2,9 +2,9 @@
 
 Hi my name is Joel Martin, I am a senior at Iowa State University pursuing my Bachelors Degree in Data Science with an emphasis in Big Data.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am familiar with a few different coding languages. These include R, Python, SQL, Java, C, HTML, and CSS. I have also obtained my CompTIA A+ and Network+ certifications.
 
 ```markdown
 Syntax highlighted code block
