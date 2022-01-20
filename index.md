@@ -12,3 +12,6 @@ In my coursework, I participated in several online judge projects. Online Judge 
 One of these problems was 10608 - Friends. In this problem, we were given an N number of citizens in a town, M pairs of known friends where there could be repetitions, and K number of cases where person A is friends with person B. We were then tasked to find the largest group of friends and return the size of that group.
 
 Another coursework project I worked on was given a companies proposal and requirements for a database work through the steps needed to create the database. These steps included drafting an entity-relationship diagram to match the needs of the companies database. Creating the database in SQL. Populating the database with the given CSV file of data being sure to catch cases where the data was messy. And finally, running some basic queries on the database for the company.
+
+### Contact Information
+If you'd like to get in touch with me you can reach me at joelmar@iastate.edu. I look forward to hearing from you!
